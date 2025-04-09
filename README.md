@@ -26,7 +26,7 @@
 
 **Listen Server** 환경의 청소 시스템 설계 및 구현
 
-**Slate UI**를 활용한 인게임 UI 구현
+**Unreal Motion Graphics**를 활용한 인게임 UI 구현
 
 **Animation Blueprint**를 활용한 플레이어 애니메이션 설계 및 구현 
 
